@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: cbfb883cd114f8d498767c2379065891
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 840878631413426961
+    second: Cooking Animation_0
+  - first:
+      213: 5911181192181223589
+    second: Cooking Animation_1
+  - first:
+      213: -6749116985227143540
+    second: Cooking Animation_2
+  - first:
+      213: 1854848772460518662
+    second: Cooking Animation_3
+  - first:
+      213: -4008329356884672994
+    second: Cooking Animation_4
+  - first:
+      213: 2515306072880166601
+    second: Cooking Animation_5
+  - first:
+      213: 4126377197310695053
+    second: Cooking Animation_6
+  - first:
+      213: -6605585513419163669
+    second: Cooking Animation_7
+  - first:
+      213: 3401759246153175657
+    second: Cooking Animation_8
+  - first:
+      213: -985724282844459505
+    second: Cooking Animation_9
+  - first:
+      213: 545338030933365992
+    second: Cooking Animation_10
+  - first:
+      213: -4045631834811858940
+    second: Cooking Animation_11
+  - first:
+      213: -4210132220131899114
+    second: Cooking Animation_12
+  - first:
+      213: 1277830165287314857
+    second: Cooking Animation_13
+  - first:
+      213: 7246857333229370244
+    second: Cooking Animation_14
+  - first:
+      213: 852130471986045558
+    second: Cooking Animation_15
+  - first:
+      213: 5717063888710084937
+    second: Cooking Animation_16
+  - first:
+      213: 8553575112971160936
+    second: Cooking Animation_17
+  - first:
+      213: -3588926939932327733
+    second: Cooking Animation_18
+  - first:
+      213: 1725277942508947379
+    second: Cooking Animation_19
+  - first:
+      213: -1047364322623691925
+    second: Cooking Animation_20
+  - first:
+      213: 1216814218303630009
+    second: Cooking Animation_21
+  - first:
+      213: -5655954816850552216
+    second: Cooking Animation_22
+  - first:
+      213: -6349319257374408041
+    second: Aura Top
+  - first:
+      213: -5673618120071735642
+    second: Body
+  - first:
+      213: 5959657858765717877
+    second: Body Burn
+  - first:
+      213: 5336182098369700544
+    second: Fire
+  - first:
+      213: -7982778163031356162
+    second: Layer 130 Copy
+  - first:
+      213: 6864233666251185082
+    second: Layer 130 Copy Burn
+  - first:
+      213: -8517831643209529797
+    second: Light Rays
+  - first:
+      213: -7554957166376221008
+    second: Particle
+  - first:
+      213: 273195785211987463
+    second: Pot inside
+  - first:
+      213: 120408378245916309
+    second: Pot inside Burn
+  - first:
+      213: 6828963583274508791
+    second: Smoke L
+  - first:
+      213: 5256383860407389182
+    second: Smoke Line
+  - first:
+      213: 3045401469156708197
+    second: Smoke M
+  - first:
+      213: -3259641797943108964
+    second: Smoke R
+  - first:
+      213: -4918382535416453899
+    second: Smoke Ray
+  - first:
+      213: 1384034472372589755
+    second: Soup
+  - first:
+      213: -6524564776903782624
+    second: Top Burn
+  - first:
+      213: 1744430340259953645
+    second: top
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cooking Animation_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 555
+        width: 648
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b2d9cf8a66bab00800000000000000
+      internalID: 840878631413426961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 633
+        width: 595
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a09eeab9fbb80250800000000000000
+      internalID: 5911181192181223589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_2
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 802
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861bfb3cd15652a0800000000000000
+      internalID: -6749116985227143540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 807
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d1492912fbdb910800000000000000
+      internalID: 1854848772460518662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 735
+        width: 617
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e7e1cdfad8f58c0800000000000000
+      internalID: -4008329356884672994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 625
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b76feb8928e220800000000000000
+      internalID: 2515306072880166601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_6
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 633
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86d9fec236d34930800000000000000
+      internalID: 4126377197310695053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 377
+        width: 444
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be73f2339fe3454a0800000000000000
+      internalID: -6605585513419163669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 473
+        width: 639
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9625c56d20a753f20800000000000000
+      internalID: 3401759246153175657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 535
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e4492ccf00252f0800000000000000
+      internalID: -985724282844459505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 323
+        width: 385
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e45b40cc0e619700800000000000000
+      internalID: 545338030933365992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_11
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 169
+        width: 534
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400070ae7470bd7c0800000000000000
+      internalID: -4045631834811858940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_12
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 377
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6198c915d0b9295c0800000000000000
+      internalID: -4210132220131899114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 459
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5aa3dd3c3cbb110800000000000000
+      internalID: 1277830165287314857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 58
+        width: 459
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b321d5952029460800000000000000
+      internalID: 7246857333229370244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_15
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 130
+        width: 409
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672a305462063db00800000000000000
+      internalID: 852130471986045558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_16
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1
+        width: 161
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94927c40157175f40800000000000000
+      internalID: 5717063888710084937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_17
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1
+        width: 493
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d84481f3764b670800000000000000
+      internalID: 8553575112971160936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 305
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0018c86f1913ec0800000000000000
+      internalID: -3588926939932327733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b70016d52b61f710800000000000000
+      internalID: 1725277942508947379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1
+        width: 406
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63e89f92b30771f0800000000000000
+      internalID: -1047364322623691925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_21
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1
+        width: 407
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae1a7a51ef2e010800000000000000
+      internalID: 1216814218303630009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking Animation_22
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a96f38f030281b0800000000000000
+      internalID: -5655954816850552216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura Top
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 131
+        width: 407
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792c6aa86cfa2e7a0800000000000000
+      internalID: -6349319257374408041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 533
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a697e141624341b0800000000000000
+      internalID: -5673618120071735642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body Burn
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 170
+        width: 532
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57188963f35f4b250800000000000000
+      internalID: 5959657858765717877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2
+        width: 493
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2ef1e985ded0a40800000000000000
+      internalID: 5336182098369700544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 130 Copy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 555
+        width: 673
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc45c72e89773190800000000000000
+      internalID: -7982778163031356162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 130 Copy Burn
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 378
+        width: 672
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbdd24b628a24f50800000000000000
+      internalID: 6864233666251185082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Rays
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 634
+        width: 617
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b360ae9ff359ac980800000000000000
+      internalID: -8517831643209529797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particle
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 324
+        width: 383
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b68adc2c76672790800000000000000
+      internalID: -7554957166376221008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pot inside
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2
+        width: 405
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706c1b38e169ac300800000000000000
+      internalID: 273195785211987463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pot inside Burn
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 404
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596245538c6cba100800000000000000
+      internalID: 120408378245916309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke L
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1e725923a55ce50800000000000000
+      internalID: 6828963583274508791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Line
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 208
+        width: 254
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbcda2854d62f840800000000000000
+      internalID: 5256383860407389182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke M
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fc98f3080734a20800000000000000
+      internalID: 3045401469156708197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke R
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ad59a1e0d63c2d0800000000000000
+      internalID: -3259641797943108964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke Ray
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 736
+        width: 615
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4640b84256ebbb0800000000000000
+      internalID: -4918382535416453899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soup
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 303
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4d9aa0504153310800000000000000
+      internalID: 1384034472372589755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top Burn
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 457
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fcf9e67e61475a0800000000000000
+      internalID: -6524564776903782624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 59
+        width: 458
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debbb9ee626753810800000000000000
+      internalID: 1744430340259953645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura Top: -6349319257374408041
+      Body: -5673618120071735642
+      Body Burn: 5959657858765717877
+      Cooking Animation_0: 840878631413426961
+      Cooking Animation_1: 5911181192181223589
+      Cooking Animation_10: 545338030933365992
+      Cooking Animation_11: -4045631834811858940
+      Cooking Animation_12: -4210132220131899114
+      Cooking Animation_13: 1277830165287314857
+      Cooking Animation_14: 7246857333229370244
+      Cooking Animation_15: 852130471986045558
+      Cooking Animation_16: 5717063888710084937
+      Cooking Animation_17: 8553575112971160936
+      Cooking Animation_18: -3588926939932327733
+      Cooking Animation_19: 1725277942508947379
+      Cooking Animation_2: -6749116985227143540
+      Cooking Animation_20: -1047364322623691925
+      Cooking Animation_21: 1216814218303630009
+      Cooking Animation_22: -5655954816850552216
+      Cooking Animation_3: 1854848772460518662
+      Cooking Animation_4: -4008329356884672994
+      Cooking Animation_5: 2515306072880166601
+      Cooking Animation_6: 4126377197310695053
+      Cooking Animation_7: -6605585513419163669
+      Cooking Animation_8: 3401759246153175657
+      Cooking Animation_9: -985724282844459505
+      Fire: 5336182098369700544
+      Layer 130 Copy: -7982778163031356162
+      Layer 130 Copy Burn: 6864233666251185082
+      Light Rays: -8517831643209529797
+      Particle: -7554957166376221008
+      Pot inside: 273195785211987463
+      Pot inside Burn: 120408378245916309
+      Smoke L: 6828963583274508791
+      Smoke Line: 5256383860407389182
+      Smoke M: 3045401469156708197
+      Smoke R: -3259641797943108964
+      Smoke Ray: -4918382535416453899
+      Soup: 1384034472372589755
+      Top Burn: -6524564776903782624
+      top: 1744430340259953645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
