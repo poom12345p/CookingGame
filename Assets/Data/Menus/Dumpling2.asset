@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ad23a90ee122d84785bb854477f41e9, type: 3}
   m_Name: Dumpling2
   m_EditorClassIdentifier: 
-  <itemData>k__BackingField: {fileID: 11400000, guid: e9fa8c3dfad21e24687806a7614d0f7e, type: 2}
+  <itemData>k__BackingField: {fileID: 11400000, guid: b0db5141e0bc7154aa9185c768df4141, type: 2}
   <Ingredients>k__BackingField:
   - Ingredient: {fileID: 11400000, guid: 8afc290ff79dcec44bf1fd0923108c20, type: 2}
     Amount: 1
@@ -20,5 +20,5 @@ MonoBehaviour:
     Amount: 1
   - Ingredient: {fileID: 11400000, guid: 7030631a5f2577d4988ec01c689995da, type: 2}
     Amount: 2
-  <Rarity>k__BackingField: 3
-  <CookingTime>k__BackingField: 5
+  <Rarity>k__BackingField: 2
+  <CookingTime>k__BackingField: 10

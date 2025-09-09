@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ad23a90ee122d84785bb854477f41e9, type: 3}
   m_Name: SpicyRamen2
   m_EditorClassIdentifier: 
-  <itemData>k__BackingField: {fileID: 11400000, guid: 316e01802d8e8cf498f8da610c63df76, type: 2}
+  <itemData>k__BackingField: {fileID: 11400000, guid: 7b39cd945f6a100489c6dccf60405be7, type: 2}
   <Ingredients>k__BackingField:
   - Ingredient: {fileID: 11400000, guid: 8afc290ff79dcec44bf1fd0923108c20, type: 2}
     Amount: 2
@@ -23,4 +23,4 @@ MonoBehaviour:
   - Ingredient: {fileID: 11400000, guid: 7030631a5f2577d4988ec01c689995da, type: 2}
     Amount: 2
   <Rarity>k__BackingField: 3
-  <CookingTime>k__BackingField: 30
+  <CookingTime>k__BackingField: 60

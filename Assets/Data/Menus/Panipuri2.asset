@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ad23a90ee122d84785bb854477f41e9, type: 3}
   m_Name: Panipuri2
   m_EditorClassIdentifier: 
-  <itemData>k__BackingField: {fileID: 11400000, guid: 3e988851bdd6e1f4fbd6d10802a69982, type: 2}
+  <itemData>k__BackingField: {fileID: 11400000, guid: 24881fa6857223a488cda5ef3de02420, type: 2}
   <Ingredients>k__BackingField:
   - Ingredient: {fileID: 11400000, guid: 8afc290ff79dcec44bf1fd0923108c20, type: 2}
     Amount: 2
@@ -23,4 +23,4 @@ MonoBehaviour:
   - Ingredient: {fileID: 11400000, guid: 7030631a5f2577d4988ec01c689995da, type: 2}
     Amount: 4
   <Rarity>k__BackingField: 3
-  <CookingTime>k__BackingField: 5
+  <CookingTime>k__BackingField: 10

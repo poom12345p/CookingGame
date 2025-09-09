@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ad23a90ee122d84785bb854477f41e9, type: 3}
   m_Name: Custard2
   m_EditorClassIdentifier: 
-  <itemData>k__BackingField: {fileID: 11400000, guid: 01039ea2a5c961044a198da473bfa8cd, type: 2}
+  <itemData>k__BackingField: {fileID: 11400000, guid: 96ab187d91a855c4c9df519589035186, type: 2}
   <Ingredients>k__BackingField:
   - Ingredient: {fileID: 11400000, guid: 9b7308f1b2e19f144b0c862d0bf10c36, type: 2}
     Amount: 2
-  <Rarity>k__BackingField: 3
+  <Rarity>k__BackingField: 1
   <CookingTime>k__BackingField: 2
